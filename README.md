@@ -1,0 +1,2 @@
+This file contains the nesserary information on the working and physics simulationa on principles behind the workings of the device mentied in the @THE TIME FORCE A ROOTMATICAL APROACH TO UNDERSTANDING SAC TIME PARER" Authored by Newton. M. Odari under supervio of Dr. Geoffrey .O. Okengo.\
+This paper focused on nthe possible variation physical cnstants of nature with Gravitatina costant under consderation in his paper, and the subsequent repucaions this has n the discilne itself,and further more extrapolates on the evoltion of physical laws.
